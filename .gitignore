@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+Homework 8/config.py
